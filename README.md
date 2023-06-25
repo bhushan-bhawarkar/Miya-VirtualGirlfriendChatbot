@@ -14,3 +14,5 @@ Welcome to the Miya project! Miya is a virtual girlfriend chatbot developed usin
 To use Miya, follow these steps:
 
 1. Clone the repository:
+2. Install the required dependencies:
+3. 
